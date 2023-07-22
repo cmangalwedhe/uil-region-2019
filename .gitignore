@@ -1,0 +1,7 @@
+.idea/
+Region Judge dat files/
+Region Judge out files/
+target/
+*.dat
+*.xml
+*.pdf
